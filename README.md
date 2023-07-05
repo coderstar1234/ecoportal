@@ -6,7 +6,7 @@
 <img wedith="200" height="200"  src="https://images.hdqwalls.com/wallpapers/planet-portal-4k-ce.jpg"><br>
 </div>
 <br>
-<h1 align="center">  It is a model of responsive education data management system , provides real time data to the users </h1>
+<h3 align="center">  It is a model of responsive education data management system , provides real time data to the users </h3>
              
 <h2 align="center" >THEME : BRANCH
 <br>
