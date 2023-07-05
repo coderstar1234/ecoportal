@@ -14,7 +14,7 @@
 :
  Information Technology)</h2>
 <hr>
-<h2 align="center" >Team meets </h2>
+<h2 align="center" >Team meets:-</h2>
 <div align="center" >
 HIMANSHU VASHISTHA
 <br>
