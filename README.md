@@ -33,8 +33,7 @@ YASH PAL
 <br>
 2.	Abstract<br>                                                                                      
 3.	Introduction <br>                                                                                        
-4.	Brief Literature Survey<br>                                                                                                                        
-5.	Tools and Techniques used for project<br>                                         
+4.	Brief Literature Survey<br>                                                                                         5.	Tools and Techniques used for project<br>                                         
 6.	Module Plan <br>                                                                                     
 7.	References <br>                                                                                  
 <hr>
