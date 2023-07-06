@@ -49,7 +49,7 @@ solve the problem
 This site use to provide service 24*7 by just entering the required details of the user and also the information of the user was 100% secure and administrative. That was open by only the user or by the department. It provides day-to-day information after uploading by management and it was very easy to use on your Browser. I will also connect to your faculty of the departments so we create a different password or Id for the faculty or management of your department.
 
 <hr>
- <h3 align="center" >INTRODUCTION</h3>
+ <h3 align="center" >INTRODUCTION:-</h3>
 
 
 Most students do position have the right information about their course, wrens a post able to take lectures want help from others who have information about the courses, or want to get help with assignments from their fellows. I want to create a solution for the students to have one portal where they can share their lecture and assignment information. they can communicate with their alumni & post and get the takes information about different opportunities course material books and notes.
