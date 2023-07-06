@@ -42,7 +42,7 @@ YASH PAL
 manage there assets. Its also difficult to manage the operation of classes ,taking attendance , having accounts of how many classes are there ,how many labs are build and how midday meal is being delivered to each and every kid. There are approx. 15 lakh  government schools in India. which require a system by which they can handle all the data in efficient way , This is where ECO-PORTAL comes in to the
 solve the problem  
 <hr>
-<h3 align="center" >ABSTRACT</h3>
+<h3 align="center" >ABSTRACT:-</h3>
 
 - The main purpose of the student information system is a management information system for education establishments to manage student data. In the current system, all the activities are done manually. It is very time-consuming and costly. Our student management system deals with the various activities related to the students. For every college of the important task for the people administration department is to manage student data information details in a procedure-oriented system manner with of latest information updates for every year which need to be available for easy access. To provide this service, we designed a simple follow of the student’s information role management system enter project which has various modules which are helpful for the student administration to efficiently faculty manage the students’ details. keywords: - student information, attendance, timetable, academic calendar, contacts.
 
