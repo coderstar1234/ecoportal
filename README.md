@@ -141,7 +141,7 @@ The next menu option for the coordinator is to create a supervisor by filling ou
  This page consists of searching the existing supervisor to check and update their details by Supervisor ID.
 <hr>
 
-<h3 align="center" >Flow chart: 1</h3>
+<h3 align="center" >Flow chart:- 1</h3>
 Student Information System Module
 <p align="center">
 <img  wedith="500" height="500"  src="https://online.visual-paradigm.com/repository/images/e0f7809b-fc1d-4fc6-b409-f1cb344778a6.png"></p>
