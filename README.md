@@ -126,7 +126,6 @@ Once inputs are authenticated, the user will be redirected to the dashboard page
 
 
 2.	Coordinator Login:
-
 - Coordinator login is handled by a single person who is the top-level management of all logins.
 
 3.	Add Student:
