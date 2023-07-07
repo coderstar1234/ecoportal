@@ -116,10 +116,11 @@ A full OOA model was built through the five main activities of Coad and Yourdonâ
 â€¢	Database-MYSQL
 <br>
 <hr>
+ 
+ 
+<h3 align="center" >MODULE PLAN</h3>
+
  1.	Login:
- 
-<h3 align="center" >MODULE PLAN
- 
 The main index of the website is the login page where we need to provide credentials such as ID, password, and type of login (coordinator/head of department/students).
 Once inputs are authenticated, the user will be redirected to the dashboard page from where the header       menu options will be available to navigate to the required page.
 
