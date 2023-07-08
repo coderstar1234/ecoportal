@@ -137,7 +137,7 @@ The coordinator can also able to view the details of specific students by choosi
 
 5.	Add Supervisor:
 
-The next menu option for the coordinator is to create a supervisor by filling out the form.
+- The next menu option for the coordinator is to create a supervisor by filling out the form.
 
 6.	Search Supervisor: 
 
