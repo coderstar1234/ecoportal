@@ -52,7 +52,7 @@ solve the problem
  <h3 align="center" >INTRODUCTION:-</h3>
 
 
-Most students do position have the right information about their course, wrens a post able to take lectures want help from others who have information about the courses, or want to get help with assignments from their fellows. I want to create a solution for the students to have one portal where they can share their lecture and assignment information. they can communicate with their alumni & post and get the takes information about different opportunities course material books and notes.
+- Most students do position have the right information about their course, wrens a post able to take lectures want help from others who have information about the courses, or want to get help with assignments from their fellows. I want to create a solution for the students to have one portal where they can share their lecture and assignment information. they can communicate with their alumni & post and get the takes information about different opportunities course material books and notes.
 
 This prevents any anonymous person to enter the system and mishandle the records. It is better than the manual methods as they do not have any security measures of who can access the system and who cannot.
 
