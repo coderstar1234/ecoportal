@@ -58,7 +58,7 @@ solve the problem
 
 - The student information management system is a management information system for education establishments to manage student data.
 
-Department can also able to differentiate the assignment into various categories like quizzes, essays, or report writing. This helps in making the studies more vibrant for the students.
+- Department can also able to differentiate the assignment into various categories like quizzes, essays, or report writing. This helps in making the studies more vibrant for the students.
 This module is one of the essential parts of the system as this will act as the official document of 
 students’ presence in the institution. it will show the attendance of the students in every course.
 <div align="center">
