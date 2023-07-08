@@ -141,7 +141,7 @@ The next menu option for the coordinator is to create a supervisor by filling ou
 
 6.	Search Supervisor: 
 
- This page consists of searching the existing supervisor to check and update their details by Supervisor ID.
+- This page consists of searching the existing supervisor to check and update their details by Supervisor ID.
 <hr>
 
 <h3 align="center" >Flow chart:- 1</h3>
