@@ -134,7 +134,7 @@ A full OOA model was built through the five main activities of Coad and Yourdonâ
 
 - From this screen, the coordinator can able to create a new student by providing the details of ID, Password, Name, etc.
 
-4.	Search Student:
+4.	Search Student:-
 
 - The coordinator can also able to view the details of specific students by choosing the student ID from the list in the dropdown box.   
 
