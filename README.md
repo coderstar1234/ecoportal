@@ -130,7 +130,7 @@ A full OOA model was built through the five main activities of Coad and Yourdonâ
 
 - Coordinator login is handled by a single person who is the top-level management of all logins.
 
-3.	Add Student:
+3.	Add Student:-
 
 - From this screen, the coordinator can able to create a new student by providing the details of ID, Password, Name, etc.
 
