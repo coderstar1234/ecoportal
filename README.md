@@ -1,4 +1,4 @@
-<p align="center">
+no<p align="center">
 <img  wedith="500" height="300"  src="https://i.pinimg.com/originals/6c/a6/8e/6ca68e73fee95e114a295973f93cbbf8.png"></p>
 <h1 align="center" >ECO.PORTAL:-</h1>
 <br>
@@ -142,7 +142,7 @@ A full OOA model was built through the five main activities of Coad and Yourdonâ
 
 - The next menu option for the coordinator is to create a supervisor by filling out the form.
 
-6.	Search Supervisor: 
+6.	Search Supervisor:-
 
 - This page consists of searching the existing supervisor to check and update their details by Supervisor ID.
 <hr>
