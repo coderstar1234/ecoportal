@@ -126,7 +126,7 @@ A full OOA model was built through the five main activities of Coad and Yourdonâ
 - Once inputs are authenticated, the user will be redirected to the dashboard page from where the header       menu options will be available to navigate to the required page.
 
 
-2.	Coordinator Login:
+2.	Coordinator Login:-
 
 - Coordinator login is handled by a single person who is the top-level management of all logins.
 
