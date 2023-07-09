@@ -138,7 +138,7 @@ A full OOA model was built through the five main activities of Coad and Yourdonâ
 
 - The coordinator can also able to view the details of specific students by choosing the student ID from the list in the dropdown box.   
 
-5.	Add Supervisor:
+5.	Add Supervisor:-
 
 - The next menu option for the coordinator is to create a supervisor by filling out the form.
 
