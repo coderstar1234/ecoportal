@@ -101,7 +101,7 @@ A full OOA model was built through the five main activities of Coad and Yourdon�
 <div align="center">
 <img  wedith="150" height="200"  src="https://fiverr-res.cloudinary.com/videos/so_0.628233,t_main1,q_auto,f_auto/hz46iahzldzyuscb7lzh/do-custom-html-css-js-bootstrap-php-mysqli-coding.png">
 <div>
-<h3 align="center" >Front End (Designing):</h3><br>
+<h3 align="center" >Front End (Designing):- </h3><br>
 •	HTML5<br>
 •	CSS3
 <p align="center">
