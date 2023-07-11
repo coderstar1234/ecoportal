@@ -109,7 +109,7 @@ A full OOA model was built through the five main activities of Coad and Yourdonâ
 <p align="center">
 <img  wedith="90" height="90"  src="https://th.bing.com/th/id/OIP.r0TkcCU3hKl7yuG5fFcZVAHaD0?pid=ImgDet&rs=1">
 </p>
-<h3 align="center" >Client-side scripting:</h3>
+<h3 align="center" >Client-side scripting:-</h3>
 â€¢	JavaScript<br>
 <p align="center">
 <img  wedith="90" height="90"  src="https://www.essentialdesigns.net/wp-content/uploads/2015/07/Python-Programming-Language-2.png"></p>
