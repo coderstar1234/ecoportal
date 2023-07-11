@@ -84,7 +84,7 @@ o	More than 44 universities (public and private) outsource the data collection a
 <img  wedith="200" height="200"  src="https://th.bing.com/th/id/OIP.S1xlv3l8e-bZeD3dtqFvJwAAAA?pid=ImgDet&rs=1">
 <div>
 
-It is very time-consuming and costly. Our student management system deals with the various activities related to the students. For every college of the important task for the people administration department is to manage student data information of details in a procedure-oriented system manner with of latest information updates for every year which need to be available for easy access.
+- It is very time-consuming and costly. Our student management system deals with the various activities related to the students. For every college of the important task for the people administration department is to manage student data information of details in a procedure-oriented system manner with of latest information updates for every year which need to be available for easy access.
  <hr>             
 <h3 align="center" >LITERATURE REVIEW</h3>
 
