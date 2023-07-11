@@ -71,7 +71,7 @@ students’ presence in the institution. it will show the attendance of the stud
 -	The organized website for displaying information about students and some issues to handle students just as fees-related problems, attendance, and getting information from the department.
 - Fresher students have some hesitation and doubts about his/her institution this site can help and support them by contacting some seniors they can resolve it.
 
-o	Visual contact with a senior also medium to solve a problem, they can guide his/her problem like his, or their guardians.
+- Visual contact with a senior also medium to solve a problem, they can guide his/her problem like his, or their guardians.
 
 o	This site can solve many problems in an information management student’s life and other professional areas.
 
