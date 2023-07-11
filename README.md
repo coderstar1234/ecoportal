@@ -66,8 +66,9 @@ solve the problem
 students’ presence in the institution. it will show the attendance of the students in every course.
 <div align="center">
 <img  wedith="200" height="200"  src="https://www.scnsoft.com/_default_upload_bucket/web-portals-types.png">
-<div>
-o	The organized website for displaying information about students and some issues to handle students just as fees-related problems, attendance, and getting information from the department.
+<div> 
+
+-	The organized website for displaying information about students and some issues to handle students just as fees-related problems, attendance, and getting information from the department.
 
 o	Fresher students have some hesitation and doubts about his/her institution this site can help and support them by contacting some seniors they can resolve it.
 
