@@ -75,7 +75,7 @@ students’ presence in the institution. it will show the attendance of the stud
 
 - This site can solve many problems in an information management student’s life and other professional areas.
 
-o	Artificial intelligence-based software has the power to eliminate biased admission to schools by up to 80%.
+-	Artificial intelligence-based software has the power to eliminate biased admission to schools by up to 80%.
 
 o	The issues of record-keeping and management at school are decreased by 75% by implementing technology in schools.
 
