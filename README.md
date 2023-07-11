@@ -73,7 +73,7 @@ students’ presence in the institution. it will show the attendance of the stud
 
 - Visual contact with a senior also medium to solve a problem, they can guide his/her problem like his, or their guardians.
 
-o	This site can solve many problems in an information management student’s life and other professional areas.
+- This site can solve many problems in an information management student’s life and other professional areas.
 
 o	Artificial intelligence-based software has the power to eliminate biased admission to schools by up to 80%.
 
