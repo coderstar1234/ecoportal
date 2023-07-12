@@ -62,8 +62,7 @@ solve the problem
 
 - Department can also able to differentiate the assignment into various categories like quizzes, essays, or report writing. This helps in making the studies more vibrant for the students.
 
-- This module is one of the essential parts of the system as this will act as the official document of 
-students’ presence in the institution. it will show the attendance of the students in every course.
+- This module is one of the essential parts of the system as this will act as the official document of students’ presence in the institution. it will show the attendance of the students in every course.<hr>
 <div align="center">
 <img  wedith="200" height="200"  src="https://www.scnsoft.com/_default_upload_bucket/web-portals-types.png">
 <div> 
