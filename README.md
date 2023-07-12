@@ -77,7 +77,7 @@ students’ presence in the institution. it will show the attendance of the stud
 
 -	Artificial intelligence-based software has the power to eliminate biased admission to schools by up to 80%.
 
-o	The issues of record-keeping and management at school are decreased by 75% by implementing technology in schools.
+- The issues of record-keeping and management at school are decreased by 75% by implementing technology in schools.
 
 o	More than 44 universities (public and private) outsource the data collection and analysis to different firms.
 <div align="center">
