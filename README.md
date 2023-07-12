@@ -94,10 +94,9 @@ solve the problem
 
  - This paper uses an object-oriented research methodology for modeling design and construction details. In a previous review, an approach was suggested to combine design-building processes based on knowledge processing and modeling. By splitting the comprehensive information of the project into groups of related information, construction-related issues were identified and then followed up on their respective design processes.
 
- This paper illustrates this process using a relatively young and modern research tool
- rather than a conventional formal approach. To model the knowledge in terms of the
- basic concepts underlying object-oriented analysis (OOO) approach was implemented. 
-A full OOA model was built through the five main activities of Coad and Yourdon’s OOA
+ - This paper illustrates this process using a relatively young and modern research tool rather than a conventional formal approach. To model the knowledge in terms of the basic concepts underlying object-oriented analysis (OOO) approach was implemented. 
+
+- A full OOA model was built through the five main activities of Coad and Yourdon’s OOA
        system with the potential to enhance construction issues.
   <hr>             
 <h3 align="center" >TOOLS AND TECHNIQUES USED FOR THE PROJECT</h3>
