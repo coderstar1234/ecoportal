@@ -78,7 +78,7 @@ solve the problem
 
 - The issues of record-keeping and management at school are decreased by 75% by implementing technology in schools 
 
--More than 44 universities (public and private) outsource the data collection and analysis to different firms.
+- More than 44 universities (public and private) outsource the data collection and analysis to different firms.
 <div align="center">
 <img  wedith="200" height="200"  src="https://th.bing.com/th/id/OIP.S1xlv3l8e-bZeD3dtqFvJwAAAA?pid=ImgDet&rs=1">
 <div>
