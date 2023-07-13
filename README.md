@@ -96,8 +96,7 @@ solve the problem
 
  - This paper illustrates this process using a relatively young and modern research tool rather than a conventional formal approach. To model the knowledge in terms of the basic concepts underlying object-oriented analysis (OOO) approach was implemented. 
 
-- A full OOA model was built through the five main activities of Coad and Yourdon’s OOA
-       system with the potential to enhance construction issues.
+- A full OOA model was built through the five main activities of Coad and Yourdon’s OOA system with the potential to enhance construction issues.
   <hr>             
 <h3 align="center" >TOOLS AND TECHNIQUES USED FOR THE PROJECT</h3>
 <div align="center">
