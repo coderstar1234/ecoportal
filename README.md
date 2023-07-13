@@ -99,7 +99,7 @@ solve the problem
 
 - A full OOA model was built through the five main activities of Coad and Yourdon’s OOA system with the potential to enhance construction issues.
   <hr>             
-<h3 align="center" >TOOLS AND TECHNIQUES USED FOR THE PROJECT</h3>
+<h3 align="center" >TOOLS AND TECHNIQUES USED FOR THE PROJECT:- </h3>
 <div align="center">
 <img  wedith="150" height="200"  src="https://fiverr-res.cloudinary.com/videos/so_0.628233,t_main1,q_auto,f_auto/hz46iahzldzyuscb7lzh/do-custom-html-css-js-bootstrap-php-mysqli-coding.png">
 <div>
