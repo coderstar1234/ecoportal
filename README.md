@@ -86,7 +86,7 @@ solve the problem
 
 - It is very time-consuming and costly. Our student management system deals with the various activities related to the students. For every college of the important task for the people administration department is to manage student data information of details in a procedure-oriented system manner with of latest information updates for every year which need to be available for easy access.
  <hr>             
-<h3 align="center" >LITERATURE REVIEW</h3>
+<h3 align="center" >LITERATURE REVIEW:</h3>
 
 - The software of the project is a time-consuming, extremely people-intensive effort, with a fundamental effect on my different teams' work and results. The project's success relies heavily on the timely transfer of knowledge between participating parties, such as the management team, department heads, developers, and customers. 
 
