@@ -7,7 +7,7 @@
 </div>
 <br>
 <h3 align="center"> 
- It is a model of responsive education data management system , provides real time data to the users </h3>
+It is a model of responsive education data management system , provides real time data to the users </h3>
              
 <h2 align="center" >THEME : BRANCH
 <br>
@@ -16,8 +16,9 @@
  Information Technology)</h2>
 <hr>
 <h2 align="center" >Team meets:-</h2>
-<div align="center" >
-HIMANSHU VASHISTHA
+<div align="center" > 
+
+- HIMANSHU VASHISTHA
 <br>
 PRAGYA DYADI	
 <br>
