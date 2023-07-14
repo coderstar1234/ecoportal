@@ -23,7 +23,8 @@ It is a model of responsive education data management system , provides real tim
 
 - PRAGYA DYADI	
 <br>
-YASH PAL
+
+- YASH PAL
 </div>
 <hr>
 <br>
