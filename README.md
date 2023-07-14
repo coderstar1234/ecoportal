@@ -137,7 +137,7 @@ solve the problem
 
 - From this screen, the coordinator can able to create a new student by providing the details of ID, Password, Name, etc.
 
-4.	Search Student:-
+<h2 align="center"> 4.	Search Student:-</h2>
 
 - The coordinator can also able to view the details of specific students by choosing the student ID from the list in the dropdown box.   
 
