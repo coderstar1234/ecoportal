@@ -1,6 +1,6 @@
 <p align="center">
 <img  wedith="500" height="300"  src="https://i.pinimg.com/originals/6c/a6/8e/6ca68e73fee95e114a295973f93cbbf8.png"></p>
-<h1 align="center" >ECO.PORTAL📝:-</h1>
+<h1 align="center">ECO.PORTAL📝:-</h1>
 <br>
 <div align="center">
 <img wedith="200" height="200"  src="https://images.hdqwalls.com/wallpapers/planet-portal-4k-ce.jpg"><br>
