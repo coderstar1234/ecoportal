@@ -19,8 +19,6 @@ It is a model of responsive education data management system , provides real tim
 <div align="center" > 
 
 - HIMANSHU VASHISTHA
-<br>
-
 - PRAGYA DYADI	
 <br>
 
