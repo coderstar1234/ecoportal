@@ -157,7 +157,7 @@ Student Information System Module
 <p align="center">
 <img  wedith="500" height="500"  src="https://online.visual-paradigm.com/repository/images/e0f7809b-fc1d-4fc6-b409-f1cb344778a6.png"></p>
 <hr>            
-<h3 align="center" >Flow chart:-2</h3>
+<h2 align="center" >Flow chart:-2</h2>
 All Modules Working Flow Chart
 <p align="center">
 <img  wedith="500" height="500"  src="https://i.pinimg.com/736x/14/2b/8a/142b8a0cdc3ce06a5e21deb2e5b542aa.jpg"></p>
