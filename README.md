@@ -141,7 +141,7 @@ solve the problem
 
 - The coordinator can also able to view the details of specific students by choosing the student ID from the list in the dropdown box.   
 
-5.	Add Supervisor:-
+<h2 align="center">5.	Add Supervisors:-</h2>
 
 - The next menu option for the coordinator is to create a supervisor by filling out the form.
 
