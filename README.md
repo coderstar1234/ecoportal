@@ -145,7 +145,7 @@ solve the problem
 
 - The next menu option for the coordinator is to create a supervisor by filling out the form.
 
-6.	Search Supervisor:-
+<h2 align="center">6.	Search Supervisors:-</h2>
 
 - This page consists of searching the existing supervisor to check and update their details by Supervisor ID.
 <hr>
