@@ -152,7 +152,7 @@ solve the problem
 - This page consists of searching the existing supervisor to check and update their details by Supervisor ID.
 <hr>
 
-<h3 align="center" >Flow chart:- 1</h3>
+<h2 align="center" >Flow chart:- 1</h2>
 Student Information System Module
 <p align="center">
 <img  wedith="500" height="500"  src="https://online.visual-paradigm.com/repository/images/e0f7809b-fc1d-4fc6-b409-f1cb344778a6.png"></p>
