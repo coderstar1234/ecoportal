@@ -37,7 +37,7 @@ It is a model of responsive education data management system , provides real tim
 6.	Module Plan <br>                                                                                     
 7.	References <br>                                                                                  
 <hr>
-<h3 align="center" >OBJECTIVE:-</h3>
+<h3 align="center" >OBJECTIVE✨:-</h3>
 
 •	Government operates schools on central and district level where they found it very difficult to manage there assets. Its also difficult to manage the operation of classes ,taking attendance , having accounts of how many classes are there ,how many labs are build and how midday meal is being delivered to each and every kid. There are approx. 15 lakh  government schools in India. which require a system by which they can handle all the data in efficient way , This is where ECO-PORTAL comes in to the
 solve the problem  
