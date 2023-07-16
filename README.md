@@ -1,4 +1,4 @@
-<p align="center">
+p<p align="center">
 <img  wedith="500" height="300"  src="https://i.pinimg.com/originals/6c/a6/8e/6ca68e73fee95e114a295973f93cbbf8.png"></p>
 <h1 align="center">ECO.PORTAL📝:-</h1>
 <br>
@@ -15,7 +15,7 @@ It is a model of responsive education data management system , provides real tim
 :
  Information Technology)</h2>
 <hr>
-<h2 align="center" >Team meets:-</h2>
+<h2 align="center" >Team meets👭:-</h2>
 <div align="center" > 
 
 - HIMANSHU VASHISTHA
