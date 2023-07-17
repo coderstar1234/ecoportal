@@ -24,7 +24,7 @@ It is a model of responsive education data management system , provides real tim
 </div>
 <hr>
 <br>
-                ABES INSTITUTE OF TECHNOLOGY, GHAZIABAD
+                ABES INSTITUTE OF TECHNOLOGY, GHAZIABAD🏫
 
 <br>
  <hr>
