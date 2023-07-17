@@ -1,3 +1,4 @@
+
 <p align="center">
 <img  wedith="500" height="300"  src="https://i.pinimg.com/originals/6c/a6/8e/6ca68e73fee95e114a295973f93cbbf8.png"></p>
 <h1 align="center">ECO.PORTAL📝:-</h1>
@@ -24,7 +25,7 @@ It is a model of responsive education data management system , provides real tim
 </div>
 <hr>
 <br>
-                ABES INSTITUTE OF TECHNOLOGY, GHAZIABAD🏫
+               <b> ABES INSTITUTE OF TECHNOLOGY, GHAZIABAD🏫</b>
 
 <br>
  <hr>
